@@ -1,6 +1,6 @@
 # LGC
 
-The Test Solution contains solved in cucumber Framework and in TestNG Framework.
+The Test Solution contains solution solved in cucumber Framework and in TestNG Framework.
 
 POM.XML file contains all the dependencies required for the test solution.
 
